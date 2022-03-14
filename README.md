@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Michal.
-I’m currently using and learning JS,Node, Express, TS, React and MySQL.
+I’m currently using and learning BEM, SASS, JS,Node, Express, TS, React and MySQL.
 
 
 
